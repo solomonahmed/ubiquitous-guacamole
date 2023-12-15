@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 nav_order: 20
 ---
-
 ## About
 
 Training notes on learning Kubernetes with links and learning resources.

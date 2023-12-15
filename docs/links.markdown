@@ -4,7 +4,6 @@ title: Links
 permalink: /links/
 nav_order: 99
 ---
-
 ## Useful Links for Tools and Learning Resources
 
 [Kubernetes Documentation](https://kubernetes.io/docs/home/)
